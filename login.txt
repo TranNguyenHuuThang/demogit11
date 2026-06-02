@@ -1,1 +1,2 @@
 hello world
+Máy A đã hoàn thành tính năng login
