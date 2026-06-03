@@ -1,3 +1,4 @@
 hello world
 Máy A đã hoàn thành tính năng login
+Máy A fixbug login
 Máy B fixbug tính năng login
