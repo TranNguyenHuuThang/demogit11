@@ -1,1 +1,2 @@
 Hoàn thành tính năng đăng ký
+Máy B fixbug tính năng đăng ký
